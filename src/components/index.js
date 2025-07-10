@@ -1,0 +1,9 @@
+export { Navbar } from './Navbar';
+export { HeroSection } from './HeroSection';
+export { AboutSection } from './AboutSection';
+export { ContactSection } from './ContactSection';
+export { Footer } from './Footer';
+export { ProjectsSection } from './ProjectsSection';
+export { SkillsSection } from './SkillsSection';
+export { StarBackground } from './StarBackground';
+export { ThemeToggle } from './ThemeToggle';
