@@ -62,19 +62,18 @@ export const ContactSection = () => {
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-          <div className="space-y-8">
+          <div className="space-y-8 flex flex-col items-center">
             <h3 className="text-2xl font-semibold mb-6">
-              {" "}
               Contact Information
             </h3>
 
-            <div className="space-y-6 justify-center">
+            <div className="space-y-6 flex flex-col">
               <div className="flex items-start space-x-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <Mail className="h-6 w-6 text-primary" />{" "}
+                <div className="p-3 rounded-full bg-primary/10 flex-shrink-0">
+                  <Mail className="h-6 w-6 text-primary" />
                 </div>
-                <div>
-                  <h4 className="font-medium"> Email</h4>
+                <div className="text-left">
+                  <h4 className="font-medium">Email</h4>
                   <a
                     href="mailto:lflores1@berkeley.edu"
                     className="text-muted-foreground hover:text-primary transition-colors"
@@ -84,23 +83,27 @@ export const ContactSection = () => {
                 </div>
               </div>
               <div className="flex items-start space-x-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <MapPin className="h-6 w-6 text-primary" />{" "}
+                <div className="p-3 rounded-full bg-primary/10 flex-shrink-0">
+                  <MapPin className="h-6 w-6 text-primary" />
                 </div>
-                <div>
-                  <h4 className="font-medium"> Location</h4>
-                  <a className="text-muted-foreground hover:text-primary transition-colors">
+                <div className="text-left">
+                  <h4 className="font-medium">Location</h4>
+                  <span className="text-muted-foreground">
                     Berkeley, CA, USA
-                  </a>
+                  </span>
                 </div>
               </div>
             </div>
 
-            <div className="pt-8">
-              <h4 className="font-medium mb-4"> Connect With Me</h4>
-              <div className="flex space-x-4 justify-center">
-                <a href="https://www.linkedin.com/in/joseluis-flores/" target="_blank">
-                  <Linkedin />
+            <div className="pt-8 text-center">
+              <h4 className="font-medium mb-4">Connect With Me</h4>
+              <div className="flex justify-center">
+                <a 
+                  href="https://www.linkedin.com/in/joseluis-flores/" 
+                  target="_blank"
+                  className="p-3 rounded-full bg-primary/10 hover:bg-primary/20 transition-colors"
+                >
+                  <Linkedin className="h-6 w-6 text-primary" />
                 </a>
               </div>
             </div>
