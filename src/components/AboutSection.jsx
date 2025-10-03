@@ -12,31 +12,29 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              AI & Frontend Developer | Applied Mathematics Student
+              Applied Mathematics And Data Science Student
             </h3>
 
             <p className="text-muted-foreground">
-              Currently pursuing a Bachelor's of Applied Mathematics with a Computer Science minor at UC Berkeley (2027). 
+              Currently pursuing a double Bachelors in Applied Mathematics and Data Science with Computer Science minor at UC Berkeley (2027). 
               I specialize in AI-powered web applications and machine learning solutions, with experience at ASSIST.org 
               and California State University, Los Angeles.
             </p>
 
             <p className="text-muted-foreground">
-              My passion lies in creating intelligent, scalable solutions that combine cutting-edge AI technology with 
-              intuitive user experiences. I've successfully integrated GPT-4 APIs, developed ML frameworks for disaster 
-              response, and tutored 40+ students in STEM subjects.
+              I build intelligent scalable products. Recent work includes shipping products with agentic AI framworks, 
+              designing ML pipelines for disaster-response forecasting, and tutoring students in math and CS.
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-4 pt-6 justify-center items-center px-4 sm:px-0">
               <a href="#contact" className="cosmic-button">
-                {" "}
                 Get In Touch
               </a>
 
               <a
-                href="/Jose_Flores_Resume.pdf"
-                download="Jose_Flores_Resume.pdf"
-                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                href="/Jose_L_Flores_Resume.pdf"
+                download="Jose_L_Flores_Resume.pdf"
+                className="px-6 py-3 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 hover:scale-105 active:scale-95 mx-2 my-2 inline-block"
               >
                 Download Resume
               </a>
@@ -52,7 +50,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">AI & Machine Learning</h4>
                   <p className="text-muted-foreground">
-                    Building intelligent systems with GPT-4 integration, predictive models, and neural networks.
+                    Building agentic systems with GPT-4 integration, predictive models, and neural networks.
                   </p>
                 </div>
               </div>

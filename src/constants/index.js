@@ -16,9 +16,9 @@ export const SCROLL_INDICATOR_BOTTOM = 8;
 // Hero section content
 export const HERO_CONTENT = {
   greeting: "Welcome! My name is," ,
-
-  lastName: "Jose Flores",
-  description: "Hi! I'm a third-year UC Berkeley student pursuing Applied Mathematics. Currently, I am enhancing my skills as a AI & Frontend Student Developer at Assist.org, aiming to evolve into a versatile Data Scientist.\n" +
+ 
+  lastName: "Luis Flores",
+  description: "Hi! I'm a third-year UC Berkeley student pursuing Applied Mathematics & Data Science.\n" +
       "\n",
   ctaText: "View My Work",
   ctaLink: "#projects",

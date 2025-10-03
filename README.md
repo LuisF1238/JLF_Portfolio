@@ -1,8 +1,8 @@
-# Jose Flores - Portfolio Website
+# Luis Flores - Portfolio Website
 
 <div align="center">
   <br />
-  <img src="./banner.png" alt="Jose Flores Portfolio Banner">
+  
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
-  <h3 align="center">Personal Portfolio of Jose Flores - UC Berkeley Applied Mathematics Student & Aspiring Data Scientist</h3>
+  <h3 align="center">Personal Portfolio of Luis Flores - UC Berkeley Applied Mathematics Student & Aspiring Data Scientist</h3>
   <br />
 </div>
 
@@ -28,19 +28,17 @@
 
 ## 🚀 Introduction
 
-Welcome to my personal portfolio website! I'm Jose Flores, a third-year UC Berkeley student pursuing Applied Mathematics with a passion for data science and frontend development. This modern portfolio showcases my journey, skills, and projects as I work towards becoming a versatile Data Scientist.
+Welcome! I’m Luis Flores, a UC Berkeley student studying Applied Mathematics with a strong focus on Data Science and frontend engineering. This portfolio highlights my projects, skills, and experiences.
 
-Currently, I'm enhancing my skills as an AI & Frontend Student Developer at Assist.org, where I'm gaining hands-on experience in web development and artificial intelligence applications.
 
 ---
 
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
+* **Vite** – Fast build tool
 * **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
+* **Lucide Icons** – Clean icon pack
 * **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
 
@@ -49,26 +47,22 @@ Currently, I'm enhancing my skills as an AI & Frontend Student Developer at Assi
 ## ⚡️ Features
 
 
-* 💫 **Animated Backgrounds**
-  Stars, meteors, scroll effects, and glowing UI elements
-
 * 📱 **Responsive Navigation**
   Desktop and mobile menus with glassmorphism
 
 * 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
+  Showcase about page with smooth intro animations and buttons
 
 
 * 🖼️ **Projects Showcase**
   Display screenshots, tech stacks, and GitHub/demo links
 
 * 📩 **Contact Section**
-  Social icons + responsive contact form with toast notifications
+  Social icons + responsive contact form with Email.js notifications
 
 
 ---
 
-## 👌 Quick Start
 
 ### Prerequisites
 
@@ -78,7 +72,7 @@ Currently, I'm enhancing my skills as an AI & Frontend Student Developer at Assi
 ### Clone and Run
 
 ```bash
-git clone https://github.com/joseflores/JoseFlores-portfolio.git
+git clone https://github.com/LuisF1238/JLF_Portfolio.git
 cd JoseFlores-portfolio
 npm install
 npm run dev
@@ -90,16 +84,16 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-Your live website will be hosted on a custom subdomain (e.g. `https://jose-flores.vercel.app`)
+Your live website will be hosted on a custom subdomain (e.g. `https://jluis-flores.com/`)
 
 ---
 
-## 🎓 About Jose Flores
+## 🎓 About Luis Flores
 
 - **Education**: UC Berkeley, Applied Mathematics (3rd year)
-- **Current Role**: AI & Frontend Student Developer at Assist.org
+- **Previous Role**: AI & Frontend Student Developer at Assist.org
 - **Career Goal**: Aspiring Data Scientist
-- **Focus Areas**: Data Science, Frontend Development, AI Applications
+- **Focus Areas**: Data Science, Machine Learning, Frontend Development, AI Applications
 
 ---
 

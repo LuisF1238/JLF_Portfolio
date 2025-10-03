@@ -10,7 +10,7 @@ import {
 
 export const Home = () => {
   return (
-    <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
+    <div className="min-h-screen bg-background text-foreground overflow-x-hidden w-full max-w-full">
       {/* Navbar */}
       <Navbar />
       {/* Main Content */}
